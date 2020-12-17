@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rekurencja", "Rekurencja\Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inkrementacja", "Inkrementacja\Inkrementacja.csproj", "{6DC3FBCA-3D34-4AC1-B12C-ABB4B85092E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrzegladarkaObrazow", "PrzegladarkaObrazow\PrzegladarkaObrazow.csproj", "{5D852056-C80C-445D-BEDC-F85C49EDF620}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6DC3FBCA-3D34-4AC1-B12C-ABB4B85092E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DC3FBCA-3D34-4AC1-B12C-ABB4B85092E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DC3FBCA-3D34-4AC1-B12C-ABB4B85092E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D852056-C80C-445D-BEDC-F85C49EDF620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D852056-C80C-445D-BEDC-F85C49EDF620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D852056-C80C-445D-BEDC-F85C49EDF620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D852056-C80C-445D-BEDC-F85C49EDF620}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
